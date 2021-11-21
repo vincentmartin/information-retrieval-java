@@ -1,4 +1,4 @@
-# Information Retrieval in Java - Skeleton code
+# Information Retrieval in Java - Correction
 
 ## Acknowledgment
 
