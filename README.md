@@ -1,5 +1,9 @@
 # Information Retrieval in Java - Skeleton code
 
+## Acknowledgment
+
+This code comes from _2021 NLP course_ from Coursera (Dan Jurafsky and Christopher Manning)
+
 ## Pre requisites
 
 - JDK8
